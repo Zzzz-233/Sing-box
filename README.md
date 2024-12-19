@@ -126,5 +126,5 @@ PORT=TCP端口 bash <(curl -Ls https://raw.githubusercontent.com/eooce/scripts/m
 ## ⭐ Star History
 
 感谢所有为本项目点亮 Star 的朋友们！🌟
-
+1
 [![Star History Chart](https://api.star-history.com/svg?repos=eooce/Sing-box&type=Date)](https://star-history.com/#eooce/Sing-box&Date)
